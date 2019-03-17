@@ -1,0 +1,26 @@
+# name:
+# develop:
+# verbose:
+# libs:
+# formats:
+#   css:
+#     - sass
+#     - scss
+#     - toilet
+#     - css
+#   docs:
+#     - md
+#   html:
+#     - shit
+#   js:
+#     - coffee
+#     - js
+# build:
+#   compress:
+#   split:
+# demo:
+#   host:
+#   port:
+#   tests:
+# test:
+#   watch:

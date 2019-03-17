@@ -1,0 +1,9 @@
+{
+  "name": "bumper-project",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {},
+  "dependencies": {
+    "bumper": "^0"
+  }
+}
