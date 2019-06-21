@@ -4,6 +4,6 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {},
   "dependencies": {
-    "bumper": "^0"
+    "bumper": "^2"
   }
 }
